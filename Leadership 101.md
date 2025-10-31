@@ -13,6 +13,204 @@ Setelah mempelajari materi ini, siswa diharapkan mampu:
 
 ---
 
+## 📑 DAFTAR ISI
+
+### 🗺️ PETA PEMBELAJARAN & PENDAHULUAN
+- [Mindmap: Big Picture Leadership 101](#️-mindmap-big-picture-leadership-101)
+- [Visual Framework: Journey Menjadi Pemimpin](#-visual-framework-journey-menjadi-pemimpin)
+- [Konsep Inti: The Leadership Trinity](#-konsep-inti-the-leadership-trinity)
+- [Siklus Pembelajaran Leadership](#-siklus-pembelajaran-leadership)
+- [Leadership Compass: 4 Arah Kepemimpinan](#-leadership-compass-4-arah-kepemimpinan)
+- [Progression Path: Dari Beginner ke Expert](#-progression-path-dari-beginner-ke-expert)
+- [Leadership Tree: Akar, Batang, Cabang, Buah](#-leadership-tree-akar-batang-cabang-buah)
+- [Leadership Journey Map: Timeline](#-leadership-journey-map-dari-sekarang-sampai-masa-depan)
+- [Integrasi Sumber: Drucker × Sinek × Islam](#-integrasi-sumber-drucker--sinek--islam)
+- [Quick Reference: Peta Studi Kasus](#-quick-reference-peta-studi-kasus)
+- [Cara Menggunakan Materi Ini](#-cara-menggunakan-materi-ini)
+- [Key Takeaways (Ringkasan Utama)](#-key-takeaways-ringkasan-utama)
+
+### 📖 PENDAHULUAN: Mengapa Leadership Penting?
+- [Refleksi Pembuka](#refleksi-pembuka)
+- [Definisi Leadership](#definisi-leadership)
+- [📘 Studi Kasus Pembuka: Mengapa Leadership Matters?](#-studi-kasus-pembuka-mengapa-leadership-matters)
+  - [Kasus: Dua Kelas, Dua Cerita Berbeda](#kasus-dua-kelas-dua-cerita-berbeda)
+  - [Pembahasan: WHY Leadership Matters](#pembahasan-why-leadership-matters)
+  - [Kesimpulan & Call to Action](#kesimpulan-why-you-should-care-about-leadership)
+
+---
+
+### 🌟 BAGIAN 1: MEMIMPIN DIRI SENDIRI (Self-Leadership)
+
+#### 1.1 Mengenali Diri (Self-Awareness)
+- [Konsep: Self-Awareness](#11-mengenali-diri-self-awareness)
+- [Perspektif Islam](#perspektif-islam)
+- [Aktivitas 2: Peta Diri](#aktivitas-2-peta-diri-15-menit)
+- [📘 Studi Kasus 1: Mengenali Diri dalam Tekanan](#-studi-kasus-1-mengenali-diri-dalam-tekanan)
+
+#### 1.2 Disiplin dan Konsistensi
+- [Konsep: Disiplin](#12-disiplin-dan-konsistensi)
+- [Hadith tentang Konsistensi](#hadith-rasulullah-saw)
+- [Aktivitas 3: Challenge 21 Hari](#aktivitas-3-challenge-21-hari-proyek-mingguan)
+- [📘 Studi Kasus 2: Konsistensi di Tengah Godaan](#-studi-kasus-2-konsistensi-di-tengah-godaan)
+
+#### 1.3 Tanggung Jawab dan Accountability
+- [Konsep: Tanggung Jawab](#13-tanggung-jawab-dan-accountability)
+- [Perspektif Peter Drucker](#perspektif-peter-drucker)
+- [Aktivitas 4: Studi Kasus - Rudi Ketua Kelas](#aktivitas-4-studi-kasus-diskusi-kelompok-20-menit)
+- [📘 Pembahasan Lengkap: Kasus Rudi & Tugas Kelompok](#pembahasan--jawaban-yang-tepat)
+
+---
+
+### 🤝 BAGIAN 2: MEMIMPIN ORANG LAIN (Leading Others)
+
+#### 2.1 Start With WHY (Simon Sinek)
+- [Konsep Golden Circle](#21-start-with-why-simon-sinek)
+- [Contoh dalam Islam](#contoh-dalam-islam)
+- [Aktivitas 5: Find Your WHY](#aktivitas-5-find-your-why-15-menit)
+- [📘 Studi Kasus 3: Mengajak Teman Tanpa WHY yang Jelas](#-studi-kasus-3-mengajak-teman-tanpa-why-yang-jelas)
+
+#### 2.2 Melayani Bukan Dilayani (Servant Leadership)
+- [Konsep: Servant Leadership](#22-melayani-bukan-dilayani-servant-leadership)
+- [Hadith & Teladan Nabi Muhammad SAW](#hadith-rasulullah-saw-1)
+- [Aktivitas 6: Observasi dan Aksi](#aktivitas-6-observasi-dan-aksi-proyek-1-minggu)
+- [📘 Studi Kasus 4: Pemimpin yang Melayani vs Memerintah](#-studi-kasus-4-pemimpin-yang-melayani-vs-pemimpin-yang-memerintah)
+
+#### 2.3 Komunikasi Efektif
+- [Konsep: Komunikasi Efektif](#23-komunikasi-efektif)
+- [Prinsip Komunikasi & Perspektif Al-Qur'an](#prinsip-komunikasi-efektif)
+- [Aktivitas 7: Roleplay Komunikasi](#aktivitas-7-roleplay-komunikasi-30-menit)
+- [📘 Studi Kasus 5: Miskomunikasi yang Merusak Tim](#-studi-kasus-5-miskomunikasi-yang-merusak-tim)
+
+#### 2.4 Membangun Tim yang Solid
+- [Konsep: Team Building](#24-membangun-tim-yang-solid)
+- [Tahapan Membangun Tim](#tahapan-membangun-tim)
+- [Hadith tentang Kerjasama](#hadith-tentang-kerjasama)
+- [Aktivitas 8: Team Building Challenge](#aktivitas-8-team-building-challenge-45-menit)
+
+---
+
+### 🎯 BAGIAN 3: PRINSIP-PRINSIP LEADERSHIP YANG EFEKTIF
+
+#### 3.1 Integritas: Fondasi Kepemimpinan
+- [Konsep: Integritas](#31-integritas-fondasi-kepemimpinan)
+- [Perspektif Islam & Peter Drucker](#perspektif-islam-1)
+- [Aktivitas 9: Integrity Check](#aktivitas-9-integrity-check-refleksi-individual)
+- [📘 Studi Kasus 6: Ujian Integritas](#-studi-kasus-6-ujian-integritas)
+
+#### 3.2 Visi: Melihat Masa Depan
+- [Konsep: Visi](#32-visi-melihat-masa-depan)
+- [Simon Sinek tentang Visi](#simon-sinek)
+- [Aktivitas 10: Crafting Your Vision](#aktivitas-10-crafting-your-vision-20-menit)
+
+#### 3.3 Keberanian: Berani Mengambil Keputusan
+- [Konsep: Keberanian](#33-keberanian-berani-mengambil-keputusan)
+- [Hadith tentang Mukmin yang Kuat](#hadith-rasulullah-saw-2)
+- [Aktivitas 11: Dilema Etis](#aktivitas-11-dilema-etis-diskusi-kelompok-30-menit)
+- [📘 Pembahasan Dilema-Dilema & Jawaban yang Tepat](#pembahasan-dilema-dilema--jawaban-yang-tepat)
+  - [Dilema 1: Teman Mencontek](#dilema-1-teman-mencontek)
+  - [Dilema 2: Anggota Tidak Berkontribusi](#dilema-2-anggota-yang-tidak-berkontribusi)
+  - [Dilema 3: Ide Berbeda dari Senior](#dilema-3-ide-berbeda-dari-senior)
+
+#### 3.4 Empati dan Emotional Intelligence
+- [Konsep: Empati & EQ](#34-empati-dan-emotional-intelligence)
+- [Hadith tentang Empati](#hadith-rasulullah-saw-3)
+- [Aktivitas 12: Empathy Mapping](#aktivitas-12-empathy-mapping-20-menit)
+- [📘 Studi Kasus 7: Memimpin dengan Empati](#-studi-kasus-7-memimpin-dengan-empati)
+
+#### 3.5 Adaptabilitas: Fleksibel dalam Perubahan
+- [Konsep: Adaptabilitas](#35-adaptabilitas-fleksibel-dalam-perubahan)
+- [Peter Drucker tentang Perubahan](#peter-drucker-1)
+- [Aktivitas 13: Change Scenario](#aktivitas-13-change-scenario-15-menit)
+
+---
+
+### 🌱 BAGIAN 4: MENGEMBANGKAN DIRI SEBAGAI PEMIMPIN
+
+#### 4.1 Growth Mindset
+- [Konsep: Growth Mindset](#41-growth-mindset)
+- [Fixed vs Growth Mindset](#fixed-mindset-vs-growth-mindset)
+- [Perspektif Islam: Allah Tidak Membebani](#perspektif-islam-2)
+- [Aktivitas 14: From Fixed to Growth](#aktivitas-14-from-fixed-to-growth-refleksi)
+- [📘 Studi Kasus 8: Fixed Mindset vs Growth Mindset dalam Action](#-studi-kasus-8-fixed-mindset-vs-growth-mindset-dalam-action)
+
+#### 4.2 Belajar dari Kegagalan
+- [Konsep: Failure as Teacher](#42-belajar-dari-kegagalan)
+- [Contoh Tokoh: Edison, Nabi Muhammad SAW, Walt Disney](#contoh-tokoh)
+- [Aktivitas 15: Failure Resume](#aktivitas-15-failure-resume-20-menit)
+
+#### 4.3 Mencari Mentor dan Feedback
+- [Konsep: Mentorship](#43-mencari-mentor-dan-feedback)
+- [Cara Mencari Mentor & Meminta Feedback](#cara-mencari-mentor)
+- [Aktivitas 16: Feedback Practice](#aktivitas-16-feedback-practice-dalam-pairs-15-menit)
+
+#### 4.4 Komitmen pada Continuous Learning
+- [Konsep: Lifelong Learning](#44-komitmen-pada-continuous-learning)
+- [Hadith tentang Menuntut Ilmu](#hadith-rasulullah-saw-4)
+- [Aktivitas 17: Personal Learning Plan](#aktivitas-17-personal-learning-plan-30-menit)
+
+---
+
+### 🎓 BAGIAN 5: LEADERSHIP DALAM KONTEKS KEHIDUPAN SEHARI-HARI
+
+#### 5.1 Leadership di Sekolah
+- [Kesempatan Kepemimpinan di Sekolah](#51-leadership-di-sekolah)
+- [Aktivitas 18: Leadership Opportunities Map](#aktivitas-18-leadership-opportunities-map)
+
+#### 5.2 Leadership di Rumah
+- [Konsep: Rumah sebagai Tempat Latihan](#52-leadership-di-rumah)
+- [Hadith: Setiap Kalian adalah Pemimpin](#hadith-rasulullah-saw-5)
+- [Aktivitas 19: Home Leadership Project](#aktivitas-19-home-leadership-project-1-minggu)
+
+#### 5.3 Leadership di Komunitas
+- [Konsep: Khairu Nas](#53-leadership-di-komunitas)
+- [Hadith: Yang Paling Bermanfaat](#perspektif-islam---khairu-nas)
+- [Aktivitas 20: Community Impact Project](#aktivitas-20-community-impact-project-proyek-kelompok)
+
+---
+
+### 📊 BAGIAN 6: EVALUASI DAN PENUTUP
+
+#### 6.1 Self-Assessment Leadership
+- [Aktivitas 21: Leadership Self-Assessment](#61-self-assessment-leadership)
+
+#### 6.2 Personal Leadership Statement
+- [Aktivitas 22: Crafting Your Leadership Statement](#62-personal-leadership-statement)
+
+#### 6.3 Action Plan: Next Steps
+- [Aktivitas 23: 30-Day Leadership Challenge](#63-action-plan-next-steps)
+
+#### 6.4 Inspirasi Penutup
+- [Kisah: Kepemimpinan Nabi Muhammad SAW](#64-inspirasi-penutup)
+- [Pesan Akhir & Pertanyaan Refleksi](#pesan-akhir)
+
+---
+
+### 📚 RESOURCES & APPENDIX
+
+#### Resources untuk Pembelajaran Lanjutan
+- [Buku yang Direkomendasikan](#buku-yang-direkomendasikan)
+- [Video & Talks](#video--talks)
+- [Praktik Berkelanjutan](#praktik-berkelanjutan)
+
+#### Appendix: Template dan Tools
+- [Template 1: Daily Leadership Journal](#template-1-daily-leadership-journal)
+- [Template 2: Team Meeting Agenda](#template-2-team-meeting-agenda)
+- [Template 3: Feedback Form](#template-3-feedback-form)
+
+#### Penutup dari Guru
+- [Catatan untuk Guru](#-penutup-dari-guru)
+- [Tips Implementasi](#catatan-untuk-guru)
+
+---
+
+**📌 TIPS NAVIGASI:**
+- Klik pada judul manapun untuk langsung ke bagian tersebut
+- Gunakan Ctrl+F (Windows) atau Cmd+F (Mac) untuk search kata kunci
+- Gunakan [Quick Reference Table](#-quick-reference-peta-studi-kasus) untuk navigasi cepat ke studi kasus
+- Bookmark halaman ini untuk akses mudah
+
+---
+
 ## 🗺️ MINDMAP: Big Picture Leadership 101
 
 ```
