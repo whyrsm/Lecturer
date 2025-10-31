@@ -13,6 +13,355 @@ Setelah mempelajari materi ini, siswa diharapkan mampu:
 
 ---
 
+## 🗺️ MINDMAP: Big Picture Leadership 101
+
+```
+                                    LEADERSHIP 101
+                                         |
+            +----------------------------+----------------------------+
+            |                            |                            |
+    🌟 MEMIMPIN DIRI                🤝 MEMIMPIN                 🎯 PRINSIP-PRINSIP
+       (Self-Leadership)           ORANG LAIN                    LEADERSHIP
+            |                    (Leading Others)                     |
+            |                            |                            |
+    +-------+-------+            +-------+-------+           +--------+--------+
+    |       |       |            |       |       |           |        |        |
+  SELF-  DISIPLIN TANGGUNG    START   SERVANT KOMUNIKASI  INTEGRITAS VISI  KEBERANIAN
+  AWARE-   &      JAWAB       WITH    LEADER-    EFEKTIF              &       &
+  NESS   KONSIS-  & ACCOUNT-  WHY      SHIP                         EMPATI  ADAPTABILITAS
+         TENSI    ABILITY              
+            |                            |                            |
+            |                            |                            |
+    +-------+-------+            +-------+-------+           +--------+--------+
+    |               |            |               |           |                 |
+  - Kekuatan/     - Sistem     - Golden       - Melayani  - Integritas =    - Growth
+    Kelemahan     - Identity     Circle        tim         WHO you are       Mindset
+  - Nilai-nilai  - Recovery   - Inspire      - Empower   - Courage to      - Learn from
+  - Mengelola      Plan         with WHY      others      do right          failure
+    Emosi                      - Clear       - Build     - Empati =        - Feedback &
+                                 Communi-     community   understanding     Mentorship
+                                 cation                   others          - Continuous
+                                                                            Learning
+
+                            ⬇️  APLIKASI DALAM KEHIDUPAN  ⬇️
+                                         |
+                    +--------------------+--------------------+
+                    |                    |                    |
+            🏫 DI SEKOLAH        🏠 DI RUMAH         🌍 DI KOMUNITAS
+                    |                    |                    |
+            - Kelas              - Tanggung Jawab    - Kerja Sosial
+            - Organisasi         - Membantu          - Environmental
+            - Tim/Kelompok       - Role Model          Leadership
+                                 - Inisiatif         - Community Building
+```
+
+---
+
+## 📊 VISUAL FRAMEWORK: Journey Menjadi Pemimpin
+
+```
+FASE 1: FOUNDATION                    FASE 2: PRACTICE                     FASE 3: MASTERY
+(Memimpin Diri Sendiri)               (Memimpin Orang Lain)                (Leadership Excellence)
+        |                                      |                                    |
+        |                                      |                                    |
+    🧘 SELF                               👥 OTHERS                            🌟 IMPACT
+        |                                      |                                    |
+   +---------+                            +---------+                         +---------+
+   |         |                            |         |                         |         |
+INNER     HABITS                      SKILLS    BUILD                    SUSTAINABLE  LEGACY
+WORK                                            TRUST                     LEADERSHIP
+   |         |                            |         |                         |         |
+- Kenali  - Disiplin                 - Komunikasi - Empati              - Develop   - Inspire
+  Diri    - Konsistensi              - Motivasi   - Servant               Others      Next Gen
+- Integritas - Tanggung              - Delegasi     Leadership          - Systems   - Lasting
+- Growth      Jawab                  - Feedback   - Team                  not Hero    Change
+  Mindset                                          Building                         
+```
+
+---
+
+## 🎯 KONSEP INTI: The Leadership Trinity
+
+```
+                        ⭐ EFFECTIVE LEADERSHIP ⭐
+                                  |
+                    +-------------+-------------+
+                    |                           |
+              📚 KNOWLEDGE                 ❤️ CHARACTER
+              (Pengetahuan)                 (Karakter)
+                    |                           |
+          - Konsep Leadership         - Integritas & Kejujuran
+          - Strategi & Tools          - Empati & Kasih Sayang
+          - Best Practices            - Kerendahan Hati
+                    |                           |
+                    +-------------+-------------+
+                                  |
+                           💪 ACTION/PRACTICE
+                            (Tindakan/Praktik)
+                                  |
+                        - Konsisten melakukan
+                        - Belajar dari pengalaman
+                        - Iterasi & perbaikan
+
+
+        TANPA ACTION: Knowledge + Character = TEORI SAJA
+        TANPA CHARACTER: Knowledge + Action = MANIPULASI
+        TANPA KNOWLEDGE: Character + Action = GOOD INTENTION tapi INEFFECTIVE
+```
+
+---
+
+## 🔄 SIKLUS PEMBELAJARAN LEADERSHIP
+
+```
+    1. LEARN                  2. PRACTICE                3. REFLECT
+   (Belajar)                 (Praktik)                  (Refleksi)
+       |                         |                          |
+    Konsep &                Ambil peran              Apa yang berhasil?
+    Prinsip      ➡️        kepemimpinan    ➡️       Apa yang tidak?
+    Leadership              (kecil/besar)            Apa pembelajaran?
+       ⬆️                                                 |
+       |                                                  |
+       +--------------------------------------------------+
+                    4. IMPROVE & ITERATE
+                    (Perbaiki & Ulangi)
+                            |
+                    Apply pembelajaran
+                    ke praktik berikutnya
+```
+
+---
+
+## 🧭 LEADERSHIP COMPASS: 4 Arah Kepemimpinan
+
+```
+                            ⬆️  NORTH (UTARA)
+                              VISI & PURPOSE
+                              "Ke mana kita pergi?"
+                                    |
+                                    |
+WEST (BARAT) ⬅️ ------------------|------------------ ➡️ EAST (TIMUR)
+INTEGRITAS &                       |                    EMPATI &
+VALUES                          LEADER                 RELATIONSHIPS
+"Apa prinsip kita?"                |                   "Bagaimana kita treat people?"
+                                   |
+                                   |
+                            ⬇️  SOUTH (SELATAN)
+                              ACTION & RESULTS
+                              "Apa yang kita lakukan?"
+
+
+🧭 Leader yang efektif seimbang di 4 arah:
+   ✅ Punya VISI yang jelas (North)
+   ✅ Berpegang pada VALUES (West)
+   ✅ BUILD RELATIONSHIPS (East)
+   ✅ DELIVER RESULTS (South)
+```
+
+---
+
+## 📈 PROGRESSION PATH: Dari Beginner ke Expert
+
+```
+LEVEL 1: BEGINNER                LEVEL 2: DEVELOPING           LEVEL 3: COMPETENT
+(Pemula)                         (Berkembang)                  (Kompeten)
+    |                                    |                            |
+- Belajar konsep               - Praktik dalam konteks        - Lead tim/proyek
+  dasar leadership               kecil (ketua kelas,            dengan confidence
+- Fokus self-leadership          panitia kecil)               - Develop others
+- Aware of strengths/          - Build basic skills           - Handle konflik
+  weaknesses                   - Learn from mistakes            efektif
+    |                                    |                            |
+    |                                    |                            |
+    ⬇️                                   ⬇️                           ⬇️
+
+LEVEL 4: PROFICIENT             LEVEL 5: EXPERT/MASTER
+(Mahir)                         (Ahli/Master)
+    |                                    |
+- Lead larger                  - Inspire & develop
+  organizations                  pemimpin lain
+- Strategic thinking           - Systemic impact
+- Mentor others                - Leave lasting legacy
+- Adaptive & innovative        - Thought leader
+```
+
+---
+
+## 🌳 LEADERSHIP TREE: Akar, Batang, Cabang, Buah
+
+```
+                            🍎 🍎 🍎 BUAH (FRUITS) 🍎 🍎 🍎
+                         HASIL & DAMPAK KEPEMIMPINAN
+                        - Tim yang engaged & produktif
+                       - Goals tercapai & exceeded
+                      - Orang lain berkembang & sukses
+                     - Positive culture & environment
+                    - Lasting change & legacy
+                                |
+                                |
+                    🌿 CABANG & DAUN (BRANCHES) 🌿
+                        SKILLS & KOMPETENSI
+                            |           |
+                +-----------+-----------+-----------+
+                |           |           |           |
+          Komunikasi   Memotivasi  Delegasi   Problem
+            Efektif      Others                Solving
+                |           |           |           |
+                +-----------+-----------+-----------+
+                            |
+                            |
+                      🌳 BATANG (TRUNK) 🌳
+                  PRINSIP-PRINSIP LEADERSHIP
+                        - Integritas
+                        - Servant Leadership
+                        - Visi & Purpose
+                        - Keberanian
+                        - Empati
+                        - Adaptabilitas
+                            |
+                            |
+                    🌱 AKAR (ROOTS) 🌱
+                  SELF-LEADERSHIP & CHARACTER
+                        - Self-awareness
+                        - Disiplin & Konsistensi
+                        - Growth Mindset
+                        - Tanggung Jawab
+                        - Nilai-nilai Pribadi
+                            |
+                            |
+                    🌍 TANAH (SOIL) 🌍
+                FONDASI: Iman, Keluarga, Pendidikan
+```
+
+**Penjelasan:**
+- **AKAR** (Roots): Fondasi yang tidak terlihat tapi paling penting - self-leadership
+- **BATANG** (Trunk): Prinsip-prinsip kuat yang menyangga semuanya
+- **CABANG** (Branches): Skills yang berkembang dari prinsip yang kuat
+- **BUAH** (Fruits): Hasil nyata dari kepemimpinan yang efektif
+
+**🔑 Key Insight:** Kalau akar (self-leadership) lemah, pohon akan roboh meski cabangnya bagus. 
+**Mulai dari akar! 🌱**
+
+---
+
+## 🎬 LEADERSHIP JOURNEY MAP: Dari Sekarang sampai Masa Depan
+
+```
+📍 YOU ARE HERE          ➡️  SHORT TERM           ➡️  MEDIUM TERM          ➡️  LONG TERM
+   (Sekarang)                (1-3 Bulan)              (6-12 Bulan)             (1-3 Tahun)
+        |                         |                         |                        |
+   Belajar Konsep         Praktik dalam           Lead Organisasi/         Jadi Pemimpin
+   Leadership 101         Konteks Kecil           Tim Lebih Besar          yang Inspiring
+        |                         |                         |                        |
+    - Reading             - Ketua kelas           - Ketua OSIS             - Develop
+    - Reflecting          - Panitia acara         - Captain tim              pemimpin lain
+    - Observing           - Volunteer             - Community leader       - Systemic impact
+                                                                            - Lasting legacy
+
+    MILESTONE 1 ✅       MILESTONE 2 ✅         MILESTONE 3 ✅         MILESTONE 4 ✅
+    Paham konsep         Ambil 1 peran          Lead successfully       Transform others
+    & self-aware         leadership             & develop others        & community
+```
+
+---
+
+## 💡 INTEGRASI SUMBER: Drucker × Sinek × Islam
+
+```
+                        LEADERSHIP 101 FRAMEWORK
+                                   |
+            +----------------------+----------------------+
+            |                      |                      |
+    PETER DRUCKER           SIMON SINEK              ISLAM (Al-Qur'an
+    (Management &           (Start With WHY &         & Hadith)
+     Effectiveness)         Servant Leadership)            |
+            |                      |                       |
+    - "Do the right         - "Start with WHY"      - Amanah (Trust)
+      things"               - "Leaders Eat Last"     - Khilafah (Stewardship)
+    - Effectiveness         - Golden Circle          - Ihsan (Excellence)
+    - Contribution          - Inspire action         - Rahmah (Compassion)
+    - People development    - Build trust            - Shura (Consultation)
+                                                      - Sidq (Truthfulness)
+            |                      |                       |
+            +----------------------+----------------------+
+                                   |
+                          INTEGRATED APPROACH
+                           Leadership yang:
+                     - Efektif (Drucker) ✅
+                     - Inspiratif (Sinek) ✅
+                     - Berintegritas & Spiritual (Islam) ✅
+```
+
+---
+
+## 🎯 QUICK REFERENCE: Peta Studi Kasus
+
+| # | Studi Kasus | Topik Utama | Pembelajaran Kunci | Lokasi dalam Materi |
+|---|-------------|-------------|-------------------|---------------------|
+| 1 | Dina yang Overwhelmed | Self-Awareness & Emotional Regulation | Mengenali triggers & self-management | Bagian 1.1 |
+| 2 | Ari & Konsistensi | Disiplin & Sistem | Sistem > Motivasi | Bagian 1.2 |
+| 3 | Rudi Ketua Kelas | Accountability & Ownership | Extreme ownership | Bagian 1.3 |
+| 4 | Siti & Pengumuman Baksos | Start With WHY | Inspire dengan purpose | Bagian 2.1 |
+| 5 | Andi vs Budi | Servant Leadership | Melayani bukan memerintah | Bagian 2.2 |
+| 6 | Maya & Miskomunikasi | Komunikasi Efektif | CLEAR framework | Bagian 2.3 |
+| 7 | Fajar & Bocoran Ujian | Integritas | Integrity = WHO you are | Bagian 3.1 |
+| 8 | Dilema Etis (3 skenario) | Keberanian Memutuskan | Decision-making framework | Bagian 3.3 |
+| 9 | Amir & Lisa | Empati & EQ | Empati vs Simpati | Bagian 3.4 |
+| 10 | Rani vs Dina | Growth Mindset | Fixed vs Growth mindset | Bagian 4.1 |
+
+---
+
+## 📚 CARA MENGGUNAKAN MATERI INI
+
+```
+UNTUK SISWA:                          UNTUK GURU:
+     |                                      |
+     |                                      |
+1. Baca Konsep                      1. Jelaskan Big Picture
+     ⬇️                                     ⬇️
+2. Pahami dengan Mindmap            2. Fasilitasi Diskusi
+     ⬇️                                     ⬇️
+3. Diskusikan Studi Kasus           3. Guide Aktivitas
+     ⬇️                                     ⬇️
+4. Lakukan Aktivitas/Exercise       4. Provide Feedback
+     ⬇️                                     ⬇️
+5. Praktik dalam Kehidupan          5. Track Progress Siswa
+     ⬇️                                     ⬇️
+6. Refleksi & Evaluasi              6. Celebrate Growth
+     ⬇️                                     ⬇️
+7. Iterate & Improve                7. Adjust & Customize
+```
+
+---
+
+## 🔑 KEY TAKEAWAYS (Ringkasan Utama)
+
+**1. Leadership dimulai dari DIRI SENDIRI**
+   - Sebelum memimpin others, pimpin diri sendiri dulu
+   
+**2. Leadership adalah PILIHAN, bukan POSISI**
+   - Kamu tidak perlu title untuk mulai memimpin
+   
+**3. Leadership adalah tentang MELAYANI**
+   - Pemimpin sejati adalah pelayan bagi timnya
+   
+**4. Leadership adalah TENTANG WHY**
+   - People follow WHY, not WHAT
+   
+**5. Leadership adalah PROSES, bukan DESTINASI**
+   - Terus belajar, terus berkembang (Growth Mindset)
+   
+**6. Leadership membutuhkan INTEGRITAS**
+   - Your character is your foundation
+   
+**7. Leadership adalah INFLUENCE**
+   - Bukan tentang power, tapi positive impact
+   
+**8. Leadership membutuhkan KEBERANIAN**
+   - Courage to do the right thing meski sulit
+
+---
+
 ## 📖 Pendahuluan: Mengapa Leadership Penting?
 
 ### Refleksi Pembuka
